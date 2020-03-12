@@ -1,8 +1,8 @@
 +++
-date = 2016-11-05T14:27:40Z
+date = 2020-03-11T15:00:00Z
 image = "img/portfolio/label-clothes.jpg"
 showonlyimage = false
-title = "Name of the work 7"
+title = "Baseus USB Cableケーブルダミー"
 weight = "7"
 
 +++
